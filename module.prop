@@ -1,7 +1,7 @@
-id=template
-name=Template Module
-version=v1
+id=sprintvvm
+name=SprintVVM
+version=03.04.2017
 versionCode=1
-author=topjohnwu
-description=A short description
+author=tabp0le
+description=Sprint Visual Voicemail
 template=3
